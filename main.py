@@ -187,7 +187,6 @@ class Game:
 
                             print('Program completed in ', len(tiles) - 1, " steps")
 
-
 game = Game()
 while True:
     game.new()
