@@ -1,3 +1,8 @@
+""" Author : Priyanshu Kewat
+    Contact_1 : priyanshukewat89@gmail.com
+    Contact_2 : priyanshukewat89@outlook.com
+"""    
+
 import random
 import time
 from sprite import *
