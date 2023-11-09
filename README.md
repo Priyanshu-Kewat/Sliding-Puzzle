@@ -1,4 +1,4 @@
-# Sliding-Puzzle
+# Sliding-Puzzle Problem in Python with GUI
 Author : Priyanshu Kewat<br>
 Contact_1 : priyanshukewat89@gmail.com<br>
 Contact_2 : priyanshukewat89@outlook.com<br>
